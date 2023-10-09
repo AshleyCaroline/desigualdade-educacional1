@@ -1,0 +1,17 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 500px;
+    background-image:rgb(255,0,0);
+    background: linear-gradient(150deg, rgba(255,0,0,1) 0%, rgba(42,47,103,1) 24%, rgba(134,140,51,1) 50%, rgba(87,79,65,1) 77%, rgba(0,0,0,1) 100%);
+    font-style: oblique;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    margin: 50px;
+}
